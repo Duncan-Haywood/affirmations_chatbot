@@ -17,12 +17,12 @@ import json
 with open('questions.txt', 'r') as questions
 with open('virtues.txt', 'r') as virtues
 with open('virtue_questions.txt', 'r') as virtue_questions
-with open('answers.txt', 'r') as answers
 with open('life_coach_questions.txt', 'r') as life_coach_questions
 with open('holistic_questions.txt', 'r') as holistic_questions
 with open('postive_psych_questions.txt', 'r') as postive_psych_questions
 with open('CBT_questions.txt', 'r') as CBT_questions
-with open('qfollowup_questions.txt', 'r') as followup_questions
+with open('followup_questions.txt', 'r') as followup_questions
+with open('answers.txt', 'r') as answers
 
 
 
