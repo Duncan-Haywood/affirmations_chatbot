@@ -1,0 +1,46 @@
+
+questions = []
+virtues = []
+answers =[]
+life_coach_questions = []
+holistic_questions = []
+positive_psch_questions
+CBT_questions = []
+followup_questions = []
+
+# Module imports
+import random
+import json
+
+
+# file imports
+with open('questions.txt', 'r') as questions
+with open('virtues.txt', 'r') as virtues
+with open('virtue_questions.txt', 'r') as virtue_questions
+with open('answers.txt', 'r') as answers
+with open('life_coach_questions.txt', 'r') as life_coach_questions
+with open('holistic_questions.txt', 'r') as holistic_questions
+with open('postive_psych_questions.txt', 'r') as postive_psych_questions
+with open('CBT_questions.txt', 'r') as CBT_questions
+with open('qfollowup_questions.txt', 'r') as followup_questions
+
+
+
+
+
+addanswer(question):
+	answer=input(question)
+	answers.append([question, answer])
+
+#run
+
+run():
+	print("If there are any questions you would not like to answer, please write \"pass\" and it will move to the next question. \n I am hoping to collect answers and questions from you, the users in order to use as training data to 
+	while True:
+        	i = random.randint(0, len(questions))
+        	question = question[i]
+        	addanswer(question)
+		question = input("What follow up question to yourself will serve you best?")
+        	question = input("Is there a question you would like to be asked when you use this app?")
+        
+ 
