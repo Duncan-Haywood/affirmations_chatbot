@@ -1,4 +1,4 @@
-# questionschatbot
+# Therapist Chatbot
 
 Any questions you feel you would like to be asked on a given day, please add these to the relevant questions file. 
 If you wish to use this, the simplest approach is to download the documents into a folder and to run the chatbot through a python command line or for example Jupyter. There should be plenty of tutorials and some online methods to run these; I believe Google has an online program that should be able to run python. 
