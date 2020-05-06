@@ -2,9 +2,13 @@
 
 The chatbot_therapist.txt file is the running code at this point. This is the only file needed and all the other files at this point are stored data.
 
-Any questions you feel you would like to be asked on a given day, please add these to the relevant questions file or to create a .txt or json file with questions personally for you. 
-If you wish to use this, the simplest approach is to download the documents into a folder and to run the chatbot through a python command line or for example Jupyter. There should be plenty of tutorials and some online methods to run these; I believe Google has an online program that should be able to run python. If you upload your files to this repository, they will be public. 
-When you are done with each session, I would appreciate you uploading your files again to this repository; This is not necessary if there is information you wish to keep private. This uploading helps me build a database of possible questions and peoples answers to the questions; when I start improving this program to understand answers (using AI), these will help train the program to understand what sort of answer will create the best experience for you and others. I appreciate your help, and I hope this adds some value to your day. Much love, Duncan.
+If you wish to use this, the simplest approach is to download the documents into a folder in Google CoLab and to run the chatbot through the run button. There should be plenty of tutorials and some online methods to run these through other means
+
+If you upload your files to this repository, they will be public. 
+
+Any questions you feel you would like to be asked on a given day, please add these to the relevant questions file or to create a .txt or json file with questions personally for you.
+
+When you are done with each session, I would appreciate you uploading your files again to this repository; This is not necessary if there is information you wish to keep private. This uploading helps me build a database of possible questions and peoples answers to the questions; when I start improving this program to understand answers (using AI), these will help train the program to understand what sort of responses will create the best experience for you and others. I appreciate your help, and I hope this adds some value to your day. Much love, Duncan.
 
 
 --------
@@ -36,15 +40,14 @@ Questions:
 - Response: for a UX point of view, having a voice before a face feels more natural What do you think?
 - What are the technical and difficulty levels on each of these?
 
-
-Stage 3: Improving understanding: Simple facial emotion recognition: 
+Stage 3: Improving understanding: Simple voice emotional and beat recognition for meaning:
 - 
 
-Stage 4: Improving understanding: Simple voice emotional and beat recognition for meaning:
-- 
-
-Stage 5: Voice feedback
+Stage 4: Voice feedback
 -
+
+Stage 5: Improving understanding: Simple facial emotion recognition: 
+- 
 
 Stage 6: Facial GUI Feedback
 -
