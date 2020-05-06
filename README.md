@@ -1,5 +1,7 @@
 # Therapist Chatbot
 
+The chatbot_therapist.txt file is the running code at this point. This is the only file needed and all the other files at this point are stored data.
+
 Any questions you feel you would like to be asked on a given day, please add these to the relevant questions file or to create a .txt or json file with questions personally for you. 
 If you wish to use this, the simplest approach is to download the documents into a folder and to run the chatbot through a python command line or for example Jupyter. There should be plenty of tutorials and some online methods to run these; I believe Google has an online program that should be able to run python. If you upload your files to this repository, they will be public. 
 When you are done with each session, I would appreciate you uploading your files again to this repository; This is not necessary if there is information you wish to keep private. This uploading helps me build a database of possible questions and peoples answers to the questions; when I start improving this program to understand answers (using AI), these will help train the program to understand what sort of answer will create the best experience for you and others. I appreciate your help, and I hope this adds some value to your day. Much love, Duncan.
