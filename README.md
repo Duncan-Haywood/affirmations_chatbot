@@ -1,6 +1,6 @@
 # Therapist Chatbot
-
-The chatbot_therapist.txt file is the running code at this point. This is the only file needed and all the other files at this point are stored data.
+# Main app under construction at the moment. Any help is appreciated :)
+The therapy_chatbot.ipynb file is the running code at this point. This is the only file needed and all the other files at this point are stored data.
 
 If you wish to use this, the simplest approach is to download the documents into a folder in Google CoLab and to run the chatbot through the run button. There should be plenty of tutorials and some online methods to run these through other means
 
