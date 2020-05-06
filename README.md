@@ -18,6 +18,7 @@ When you are done with each session, I would appreciate you uploading your files
 
 Stage 1: Making something usable:
 -
+- finish starting question files and converting to json format
 - get this running on a server.
 - create a gui even if simple. 
 - asks for uploading and dealing with data privacy. 
