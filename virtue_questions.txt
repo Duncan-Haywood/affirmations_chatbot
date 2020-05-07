@@ -1,1 +1,3 @@
--
+[
+"What is a virtue you feel you have exhibited today?"
+]
