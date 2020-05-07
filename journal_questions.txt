@@ -32,6 +32,37 @@
 "Who do you spend the most time with? What is their impact on you?",
 "Who do you admire? What do you admire in them?",
 "What is one of the most painful experiences of your life? What have you learned from this experience?",
+"What would you do if you didn't need to consider money or the opinions of others?",
+"What do you do that brings you suffering? How can you improve this?",
+"How do you spend your time? How do you spend your money?",
+"What is your ideal budger using percentages? ie. 10% dance, 10% dining, ...",
+"What is a book you wish someone would write?",
+"Define the following: Success. Wisdom. Love. Faith. Truth. Courage. Joy. Happiness."
+"Who would you like to be? What would you like to do? How would you like to feel in these roles?",
+"Imagine the life you wish to live. How does this feel? What are you doing?",
+"What can you do better tomorrow if you live today again exactly?",
+"If your throat is a person, what does it say?",
+"What feels important to you right now?",
+"How can you give love to the child that you are?",
+"What are your intentions for the rest of the day?",
+"Who is your highest self?",
+"What act of kindness have you recently given to another person?",
+"What act of kindness have you recently given to yourself?",
+"What would the rules be if you created the rules for humanity?",
+"Who is a role model of yours?" What qualities do you admire in them?",
+"What are you grateful for?",
+"What are you looking forward to?",
+"What made you smile today?", 
+"What made you laugh today?",
+"What made today a good day?",
+"What made today awesome?",
+"What was the best thing that happened to you today?",
+"What's something kind someone did for you today?",
+"What made today special?"
+]
+
+
+
 
 
 
