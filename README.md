@@ -20,6 +20,7 @@ Stage 1: Making something usable:
 -
 - The therapy_chatbot.ipynb is the current next draft.
 - finish starting question files and converting to json format
+- Looking for a good way to store data scalably. 
 - get this running on a server.
 - create a gui even if simple. 
 - asks for uploading and dealing with data privacy. 
