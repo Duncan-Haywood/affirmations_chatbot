@@ -1,4 +1,4 @@
-# Therapist Chatbot
+# Therapy Chatbot
 # Main app under construction at the moment. Any help is appreciated :)
 The therapy_chatbot.ipynb file is the running code at this point. This is the only file needed and all the other files at this point are stored data.
 
