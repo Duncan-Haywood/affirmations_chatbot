@@ -60,10 +60,3 @@
 "What's something kind someone did for you today?",
 "What made today special?"
 ]
-
-
-
-
-
-
-]
